@@ -1,3 +1,12 @@
-## Credits
+## Overview
 
-Credits go to the FastAI team, Naveen Chanakya, and the Flutter team. I integrated a few different tutorials together to form a SaaS pipeline template. This is the code for [this](https://youtu.be/CzPYgRaYWUA) video on Youtube by Siraj Raval on building an image classification startup. There are 3 components here; A web API, a model training script, and a mobile app. The code in this repository is for the starter flutter app. Let's go through the 5 step process below. Pull Requests are always welcome!
+The Arduino is a great and accesible tool for creating projects ranging from simple to complex. However, if one wishes to properly develop their coding and practice with embedded systems, simply using the Arduino's existing library functions will not be necessarily sufficient. For this project I made a simple device and circuit (a temperature controlled fan) and attempted to work around the Arduino libraries as much as possible in order to observe the effects on the microcontroller's memory.  
+
+## Visual Aids
+1. [Arduino Circuit Diagram](https://imgur.com/a/1QcaOJ7)
+
+1. [Atmega168 Pinmap](https://imgur.com/a/S3M0TzX)
+
+## Shortcomings
+
+Though my desire was to code strictly using the instructions from the Atmega microntroller's data sheet, I was not able to figure out the commands for a few of the functions needed by both the program and the Arduino IDE. 
