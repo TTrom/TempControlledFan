@@ -1,4 +1,4 @@
-#include <avr/io.h> /*this include is unnecessary as the library is automatically included by the IDE; however, it is important to note that all register defines and
+#include <avr/io.h> /*this include is unnecessary as the library is automatically included by the IDE; however, it is important to note that all register defines
                       used in this program can be found in this header*/ 
 
 
