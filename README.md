@@ -5,7 +5,7 @@ The Arduino is a great and accesible tool for creating projects ranging from sim
 ## Visual Aids
 1. [Arduino Circuit Diagram](https://github.com/TTrom/TempControlledFan/issues/1)
 2. [Code Detail PDF](https://github.com/TTrom/TempControlledFan/issues/2)
-3. [Atmega168 Pin Map](https://github.com/TTrom/TempControlledFan/issues/3) (Identical to Atmega328 Pin Map)
+3. [Atmega168 Pin Map](https://github.com/TTrom/TempControlledFan/issues/3) (Identical to Atmega328 Pin Map) used to determine the register ports
 4. [Program and memory usage](https://github.com/TTrom/TempControlledFan/issues/4)
 6. [This](https://github.com/TTrom/TempControlledFan/issues/5) shows the system performance using a program producing the same output but using only Arduino libraries and functions.
 
